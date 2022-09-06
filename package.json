@@ -26,5 +26,8 @@
   "devDependencies": {
     "dotenv": "^16.0.2",
     "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "16.14.2"
   }
 }
