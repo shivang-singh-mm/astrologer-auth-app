@@ -22,6 +22,7 @@
     "path": "^0.12.7",
     "react-is": "^18.2.0",
     "socket.io": "^4.5.2",
+    "stream": "0.0.2",
     "twilio": "^3.78.0"
   },
   "devDependencies": {
